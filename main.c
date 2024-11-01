@@ -1,10 +1,17 @@
 #include <stdio.h>
 
+int add(int a, int b)
+{
+  return a + b;
+}
+
 int main()
 {
-  int a = 5;
-  int b = 19;
-  int sum = a + b;
-  printf("The sum is: %d\n", sum);
+  int x = 5;
+  int y = 10;
+  int result = add(x, y);
+
+  printf("The result is: %d\n", result);
+
   return 0;
 }

@@ -13,8 +13,6 @@ Template File: point-flaw-01.tmpl.c
  *
  * */
 
-// modification
-
 #include "std_testcase.h"
 
 #ifndef _WIN32

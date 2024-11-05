@@ -12,7 +12,6 @@ Template File: point-flaw-01.tmpl.c
  * Flow Variant: 01 Baseline
  *
  * */
-//
 
 #include "std_testcase.h"
 

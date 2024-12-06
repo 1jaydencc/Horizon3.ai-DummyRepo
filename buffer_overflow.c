@@ -95,5 +95,5 @@ int main(int argc, char *argv[])
 #endif /* OMITBAD */
   return 0;
 }
-
+//
 #endif
